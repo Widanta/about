@@ -1,1 +1,1 @@
-# Simple template web
+# Simple template website
